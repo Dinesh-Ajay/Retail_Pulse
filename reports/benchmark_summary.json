@@ -1,0 +1,38 @@
+{
+  "benchmark_timestamp": "2026-10-10T00:16:33Z",
+  "results": [
+    {
+      "dataset_size": 200,
+      "ingested_records": 200,
+      "silver_records": 170,
+      "rejected_records": 30,
+      "ingest_duration_sec": 4.827,
+      "transform_duration_sec": 2.072,
+      "aggregate_duration_sec": 1.964,
+      "total_duration_sec": 8.864,
+      "records_per_second": 22.6
+    },
+    {
+      "dataset_size": 1000,
+      "ingested_records": 1000,
+      "silver_records": 850,
+      "rejected_records": 150,
+      "ingest_duration_sec": 0.215,
+      "transform_duration_sec": 0.932,
+      "aggregate_duration_sec": 1.27,
+      "total_duration_sec": 2.417,
+      "records_per_second": 413.7
+    },
+    {
+      "dataset_size": 3000,
+      "ingested_records": 3000,
+      "silver_records": 2550,
+      "rejected_records": 450,
+      "ingest_duration_sec": 0.179,
+      "transform_duration_sec": 0.745,
+      "aggregate_duration_sec": 1.279,
+      "total_duration_sec": 2.203,
+      "records_per_second": 1362.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[2026-10-10 00:13:44] [INFO] [RetailPulse.Transformations.Aggregate]: Computing Gold layer business analytics and aggregations
+[2026-10-10 00:13:45] [INFO] [RetailPulse.Transformations.Aggregate]: Gold aggregations computed successfully
+[2026-10-10 00:13:48] [INFO] [RetailPulse.Transformations.Aggregate]: Computing Gold layer business analytics and aggregations
+[2026-10-10 00:13:48] [INFO] [RetailPulse.Transformations.Aggregate]: Gold aggregations computed successfully
+[2026-10-10 00:13:49] [INFO] [RetailPulse.Transformations.Aggregate]: Computing Gold layer business analytics and aggregations
+[2026-10-10 00:13:49] [INFO] [RetailPulse.Transformations.Aggregate]: Gold aggregations computed successfully
+[2026-10-10 00:14:53] [INFO] [RetailPulse.Ingestion]: Reading raw CSV file from C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\data\raw\retail_sales.csv
+[2026-10-10 00:14:56] [INFO] [RetailPulse.Ingestion]: Persisting Bronze raw dataset to C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\data\bronze\raw_transactions
+[2026-10-10 00:16:19] [INFO] [RetailPulse.Ingestion]: Reading raw CSV file from C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\reports\benchmark_200.csv
+[2026-10-10 00:16:28] [INFO] [RetailPulse.Ingestion]: Reading raw CSV file from C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\reports\benchmark_1000.csv
+[2026-10-10 00:16:30] [INFO] [RetailPulse.Ingestion]: Reading raw CSV file from C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\reports\benchmark_3000.csv
+[2026-10-10 00:20:13] [INFO] [RetailPulse.Transformations.Aggregate]: Computing Gold layer business analytics and aggregations
+[2026-10-10 00:20:13] [INFO] [RetailPulse.Transformations.Aggregate]: Gold aggregations computed successfully
+[2026-10-10 00:20:16] [INFO] [RetailPulse.Transformations.Aggregate]: Computing Gold layer business analytics and aggregations
+[2026-10-10 00:20:16] [INFO] [RetailPulse.Transformations.Aggregate]: Gold aggregations computed successfully
+[2026-10-10 00:20:17] [INFO] [RetailPulse.Transformations.Aggregate]: Computing Gold layer business analytics and aggregations
+[2026-10-10 00:20:18] [INFO] [RetailPulse.Transformations.Aggregate]: Gold aggregations computed successfully
+[2026-10-10 00:23:15] [INFO] [RetailPulse.Ingestion]: Reading raw CSV file from C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\data\raw\retail_sales.csv
+[2026-10-10 00:23:20] [INFO] [RetailPulse.Ingestion]: Persisting Bronze raw dataset to C:\Users\P.DINESH AJAY\OneDrive\Desktop\Python-Course-Work\RetailPulse\data\bronze\raw_transactions

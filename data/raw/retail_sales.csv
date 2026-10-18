@@ -1,0 +1,201 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,order_date,region,payment_method
+1195,C112,P105,4K Ultra-HD Monitor,Electronics,1,-250.00,2026-09-26,North,Credit Card
+1178,C115,P102,Ergonomic Wireless Mouse,Accessories,4,1200.00,2026-09-05,,Debit Card
+1126,C140,P104,Noise-Cancelling Headphones,Electronics,5,14820.57,2026-09-30,West,Debit Card
+1036,C116,P102,Ergonomic Wireless Mouse,Accessories,4,1236.96,2026-09-28,Central,UPI
+1069,C103,P112,USB-C Multiport Hub,Accessories,4,2375.42,2026-09-30,Central,Credit Card
+1085,C111,P112,USB-C Multiport Hub,Accessories,4,2487.52,2026-09-25,South,Debit Card
+1040,C128,P112,USB-C Multiport Hub,Accessories,5,2540.47,2026-09-16,South,Credit Card
+1049,C135,P104,Noise-Cancelling Headphones,Electronics,5,14647.80,2026-09-30,East,UPI
+1172,C113,P104,Noise-Cancelling Headphones,Electronics,3,15000.00,2026-14-99,South,UPI
+1161,C107,P111,Learning Spark 2nd Ed,Books,1,1392.11,2026-09-23,East,UPI
+1001,C106,P110,Designing Data-Intensive Apps,Books,4,1715.72,2026-09-03,South,Credit Card
+1066,C102,P102,Ergonomic Wireless Mouse,Accessories,3,1161.43,2026-10-01,East,UPI
+1171,,P112,USB-C Multiport Hub,Accessories,2,2500.00,2026-09-16,Central,Debit Card
+1107,C110,P107,Denim Slim Jeans,Apparel,2,2251.43,2026-10-01,East,Cash
+1092,C135,P110,Designing Data-Intensive Apps,Books,2,1797.88,2026-09-09,West,Net Banking
+1104,C120,P111,Learning Spark 2nd Ed,Books,5,1442.77,2026-09-26,Central,UPI
+1012,C115,P111,Learning Spark 2nd Ed,Books,3,1448.00,2026-09-25,North,Credit Card
+1096,C112,P101,UltraBook Pro Laptop,Electronics,3,64214.18,2026-09-07,West,Debit Card
+1057,C108,P102,Ergonomic Wireless Mouse,Accessories,2,1205.47,2026-09-27,East,Cash
+1060,C140,P112,USB-C Multiport Hub,Accessories,2,2606.44,2026-09-08,South,Credit Card
+1134,C129,P102,Ergonomic Wireless Mouse,Accessories,4,1222.64,2026-09-23,West,Debit Card
+1046,C134,P106,Cotton Graphic T-Shirt,Apparel,3,776.34,2026-09-23,East,Credit Card
+1147,C108,P111,Learning Spark 2nd Ed,Books,2,1399.77,2026-09-23,East,Cash
+1062,C118,P103,Mechanical RGB Keyboard,Accessories,1,3458.89,2026-09-02,West,Credit Card
+1030,C115,P102,Ergonomic Wireless Mouse,Accessories,1,1243.16,2026-09-03,Central,Credit Card
+1100,C102,P110,Designing Data-Intensive Apps,Books,2,1752.94,2026-09-16,North,Cash
+1050,C116,P106,Cotton Graphic T-Shirt,Apparel,3,772.62,2026-09-27,Central,Debit Card
+1004,C128,P106,Cotton Graphic T-Shirt,Apparel,3,772.44,2026-10-01,East,UPI
+1137,C102,P111,Learning Spark 2nd Ed,Books,3,1410.67,2026-09-25,South,Net Banking
+1143,C124,P110,Designing Data-Intensive Apps,Books,4,1822.57,2026-09-25,North,Credit Card
+1009,C125,P105,4K Ultra-HD Monitor,Electronics,4,28379.92,2026-09-12,South,Debit Card
+1068,C139,P109,Non-Stick Cookware Set,Home & Kitchen,1,4448.34,2026-09-19,South,Debit Card
+1093,C102,P107,Denim Slim Jeans,Apparel,3,2237.15,2026-09-26,West,Credit Card
+1059,C123,P104,Noise-Cancelling Headphones,Electronics,2,15250.40,2026-09-12,Central,Net Banking
+1174,C109,P110,Designing Data-Intensive Apps,Books,0,1800.00,2026-09-12,East,Debit Card
+1148,C118,P107,Denim Slim Jeans,Apparel,4,2305.65,2026-09-08,West,Cash
+1002,C133,P110,Designing Data-Intensive Apps,Books,1,1811.02,2026-09-23,Central,Net Banking
+1063,C113,P108,Automatic Espresso Maker,Home & Kitchen,3,18139.60,2026-09-26,South,Credit Card
+1198,C131,P112,USB-C Multiport Hub,Accessories,4,2500.00,2026-09-03,,Cash
+1052,C107,P103,Mechanical RGB Keyboard,Accessories,3,3365.40,2026-09-04,Central,Credit Card
+1179,C126,P102,Ergonomic Wireless Mouse,Accessories,1,1200.00,2026-09-26,East,
+1099,C105,P111,Learning Spark 2nd Ed,Books,1,1435.59,2026-10-01,South,Credit Card
+1124,C105,P110,Designing Data-Intensive Apps,Books,1,1737.31,2026-09-26,Central,Debit Card
+1081,C128,P104,Noise-Cancelling Headphones,Electronics,2,15456.16,2026-09-23,Central,Net Banking
+1022,C113,P103,Mechanical RGB Keyboard,Accessories,3,3591.88,2026-09-18,Central,UPI
+1193,C114,P104,Noise-Cancelling Headphones,Electronics,-3,15000.00,2026-09-19,East,Credit Card
+1177,C119,P108,Automatic Espresso Maker,,3,18500.00,2026-10-01,North,Net Banking
+1114,C129,P101,UltraBook Pro Laptop,Electronics,1,63662.53,2026-09-13,South,Debit Card
+1056,C111,P112,USB-C Multiport Hub,Accessories,4,2512.92,2026-09-14,Central,UPI
+1026,C111,P105,4K Ultra-HD Monitor,Electronics,5,29042.81,2026-09-14,South,Cash
+1188,C116,P108,Automatic Espresso Maker,Home & Kitchen,3,18500.00,2026-09-15,,Debit Card
+1038,C127,P108,Automatic Espresso Maker,Home & Kitchen,4,17970.43,2026-09-13,North,Credit Card
+1132,C128,P102,Ergonomic Wireless Mouse,Accessories,5,1166.98,2026-09-05,East,Credit Card
+1074,C137,P105,4K Ultra-HD Monitor,Electronics,4,28134.22,2026-09-01,East,Debit Card
+1042,C104,P101,UltraBook Pro Laptop,Electronics,5,64849.13,2026-09-30,Central,Credit Card
+1131,C105,P111,Learning Spark 2nd Ed,Books,2,1459.35,2026-09-26,Central,Credit Card
+1142,C133,P101,UltraBook Pro Laptop,Electronics,5,64752.85,2026-09-02,South,Cash
+1005,C106,P107,Denim Slim Jeans,Apparel,1,2168.98,2026-09-12,Central,Debit Card
+1176,C133,P106,,Apparel,3,800.00,2026-09-17,South,Debit Card
+1094,C130,P103,Mechanical RGB Keyboard,Accessories,5,3511.94,2026-09-30,West,Cash
+1167,C123,P110,Designing Data-Intensive Apps,Books,3,1825.01,2026-09-14,East,Net Banking
+1151,C119,P112,USB-C Multiport Hub,Accessories,3,2584.37,2026-09-19,West,Credit Card
+1146,C136,P101,UltraBook Pro Laptop,Electronics,5,64401.94,2026-09-08,North,Net Banking
+1119,C119,P102,Ergonomic Wireless Mouse,Accessories,2,1175.55,2026-09-12,South,Debit Card
+1006,C103,P112,USB-C Multiport Hub,Accessories,4,2509.06,2026-09-30,West,UPI
+1010,C123,P104,Noise-Cancelling Headphones,Electronics,3,15302.73,2026-09-22,North,Cash
+1041,C119,P104,Noise-Cancelling Headphones,Electronics,1,15118.77,2026-09-18,North,Debit Card
+1087,C118,P106,Cotton Graphic T-Shirt,Apparel,3,831.44,2026-09-03,South,Credit Card
+1138,C134,P111,Learning Spark 2nd Ed,Books,4,1458.25,2026-09-06,Central,Net Banking
+1185,C125,P109,Non-Stick Cookware Set,Home & Kitchen,4,-250.00,2026-09-05,East,Cash
+1101,C114,P108,Automatic Espresso Maker,Home & Kitchen,3,18993.76,2026-09-06,Central,Cash
+1156,C107,P108,Automatic Espresso Maker,Home & Kitchen,1,18548.01,2026-09-15,North,Credit Card
+1053,C118,P105,4K Ultra-HD Monitor,Electronics,5,27189.76,2026-09-11,South,Debit Card
+1048,C105,P101,UltraBook Pro Laptop,Electronics,4,65787.54,2026-09-19,North,UPI
+1120,C101,P112,USB-C Multiport Hub,Accessories,5,2406.65,2026-09-02,North,Cash
+1067,C107,P110,Designing Data-Intensive Apps,Books,4,1772.22,2026-09-26,East,Net Banking
+1011,C111,P109,Non-Stick Cookware Set,Home & Kitchen,2,4348.53,2026-09-13,East,Cash
+1130,C131,P105,4K Ultra-HD Monitor,Electronics,1,27248.13,2026-09-23,East,Net Banking
+1112,C118,P109,Non-Stick Cookware Set,Home & Kitchen,1,4507.48,2026-09-07,North,Credit Card
+1008,C105,P101,UltraBook Pro Laptop,Electronics,2,66774.94,2026-09-03,South,UPI
+1051,C140,P111,Learning Spark 2nd Ed,Books,5,1331.10,2026-09-27,Central,Debit Card
+1072,C127,P106,Cotton Graphic T-Shirt,Apparel,4,815.78,2026-09-18,South,Credit Card
+1183,C127,P112,USB-C Multiport Hub,Accessories,-3,2500.00,2026-09-10,South,UPI
+1089,C122,P109,Non-Stick Cookware Set,Home & Kitchen,4,4462.10,2026-09-07,West,Net Banking
+1000,C108,P101,UltraBook Pro Laptop,Electronics,3,63341.80,2026-09-05,North,Cash
+1184,C132,P101,UltraBook Pro Laptop,Electronics,0,65000.00,2026-09-10,North,Credit Card
+1043,C104,P109,Non-Stick Cookware Set,Home & Kitchen,1,4658.10,2026-09-03,Central,UPI
+1199,C129,P110,Designing Data-Intensive Apps,Books,2,1800.00,2026-09-04,Central,
+1091,C131,P101,UltraBook Pro Laptop,Electronics,3,63690.98,2026-09-13,West,Cash
+1139,C132,P102,Ergonomic Wireless Mouse,Accessories,4,1181.76,2026-09-11,East,UPI
+1136,C121,P110,Designing Data-Intensive Apps,Books,3,1714.66,2026-09-08,Central,Cash
+1034,C104,P107,Denim Slim Jeans,Apparel,3,2266.13,2026-09-04,South,Credit Card
+1088,C115,P107,Denim Slim Jeans,Apparel,2,2245.41,2026-09-03,West,Net Banking
+1118,C114,P112,USB-C Multiport Hub,Accessories,4,2444.12,2026-09-19,Central,Cash
+1196,C116,P101,,Electronics,3,65000.00,2026-09-12,North,Credit Card
+1003,C115,P108,Automatic Espresso Maker,Home & Kitchen,5,18089.65,2026-09-28,North,Credit Card
+1169,C137,P106,Cotton Graphic T-Shirt,Apparel,5,783.67,2026-09-23,East,UPI
+1181,,P106,Cotton Graphic T-Shirt,Apparel,4,800.00,2026-09-04,North,Cash
+1194,C118,P110,Designing Data-Intensive Apps,Books,0,1800.00,2026-09-01,South,Cash
+1078,C115,P104,Noise-Cancelling Headphones,Electronics,2,14286.64,2026-09-08,West,Cash
+1079,C105,P108,Automatic Espresso Maker,Home & Kitchen,4,19214.35,2026-09-19,South,Net Banking
+1098,C106,P108,Automatic Espresso Maker,Home & Kitchen,1,18960.69,2026-09-02,East,Credit Card
+1111,C132,P104,Noise-Cancelling Headphones,Electronics,3,15446.75,2026-09-11,East,Cash
+1054,C133,P108,Automatic Espresso Maker,Home & Kitchen,3,19249.87,2026-09-28,North,UPI
+1103,C125,P107,Denim Slim Jeans,Apparel,2,2106.72,2026-09-23,South,UPI
+1153,C130,P106,Cotton Graphic T-Shirt,Apparel,2,838.46,2026-09-08,Central,Net Banking
+1191,,P111,Learning Spark 2nd Ed,Books,1,1400.00,2026-09-20,East,Credit Card
+1035,C113,P109,Non-Stick Cookware Set,Home & Kitchen,4,4338.08,2026-09-06,East,Net Banking
+1009,C118,P111,Learning Spark 2nd Ed,Books,1,1400.00,2026-09-13,Central,UPI
+1014,C114,P111,Learning Spark 2nd Ed,Books,4,1385.39,2026-09-30,West,Credit Card
+1047,C117,P107,Denim Slim Jeans,Apparel,2,2237.77,2026-09-10,West,Debit Card
+1071,C121,P111,Learning Spark 2nd Ed,Books,1,1430.77,2026-09-10,Central,Debit Card
+1157,C127,P111,Learning Spark 2nd Ed,Books,2,1340.48,2026-09-26,East,Debit Card
+1044,C116,P107,Denim Slim Jeans,Apparel,1,2297.15,2026-09-19,South,Cash
+1123,C104,P105,4K Ultra-HD Monitor,Electronics,4,26919.44,2026-09-03,West,Net Banking
+1165,C138,P103,Mechanical RGB Keyboard,Accessories,2,3486.40,2026-09-09,West,Debit Card
+1028,C134,P108,Automatic Espresso Maker,Home & Kitchen,1,18033.63,2026-09-03,East,UPI
+1061,C127,P101,UltraBook Pro Laptop,Electronics,2,66537.67,2026-09-11,West,Credit Card
+1197,C109,P105,4K Ultra-HD Monitor,,4,28000.00,2026-09-02,Central,UPI
+1019,C136,P101,UltraBook Pro Laptop,Electronics,1,66181.12,2026-09-18,East,Debit Card
+1187,C118,P110,Designing Data-Intensive Apps,,1,1800.00,2026-09-14,East,Credit Card
+1064,C102,P111,Learning Spark 2nd Ed,Books,2,1385.79,2026-09-09,North,Debit Card
+1127,C138,P107,Denim Slim Jeans,Apparel,3,2215.10,2026-09-02,Central,UPI
+1128,C114,P111,Learning Spark 2nd Ed,Books,2,1367.05,2026-09-03,South,Credit Card
+1045,C139,P101,UltraBook Pro Laptop,Electronics,5,62282.89,2026-09-22,Central,Cash
+1144,C118,P109,Non-Stick Cookware Set,Home & Kitchen,2,4692.45,2026-09-15,West,UPI
+1076,C129,P111,Learning Spark 2nd Ed,Books,2,1401.56,2026-09-26,South,UPI
+1073,C127,P111,Learning Spark 2nd Ed,Books,4,1424.82,2026-09-29,South,Cash
+1013,C103,P106,Cotton Graphic T-Shirt,Apparel,4,781.42,2026-09-07,Central,Debit Card
+1108,C135,P108,Automatic Espresso Maker,Home & Kitchen,4,18380.81,2026-09-24,Central,Debit Card
+1090,C138,P112,USB-C Multiport Hub,Accessories,1,2589.18,2026-09-25,Central,Net Banking
+1010,C124,P102,Ergonomic Wireless Mouse,Accessories,3,1200.00,2026-09-15,Central,Net Banking
+1031,C118,P111,Learning Spark 2nd Ed,Books,4,1359.99,2026-09-05,Central,Cash
+1084,C140,P112,USB-C Multiport Hub,Accessories,5,2481.69,2026-09-30,Central,Net Banking
+1192,C137,P103,Mechanical RGB Keyboard,Accessories,2,3500.00,2026-14-99,North,Cash
+1033,C128,P106,Cotton Graphic T-Shirt,Apparel,4,792.89,2026-09-28,North,UPI
+1145,C102,P111,Learning Spark 2nd Ed,Books,5,1441.90,2026-09-23,South,Debit Card
+1150,C118,P107,Denim Slim Jeans,Apparel,3,2295.53,2026-09-17,East,UPI
+1158,C140,P112,USB-C Multiport Hub,Accessories,4,2537.46,2026-09-28,East,Cash
+1160,C116,P111,Learning Spark 2nd Ed,Books,3,1469.64,2026-09-24,North,Net Banking
+1021,C112,P109,Non-Stick Cookware Set,Home & Kitchen,1,4666.73,2026-09-10,Central,Cash
+1023,C139,P106,Cotton Graphic T-Shirt,Apparel,4,761.56,2026-09-30,East,Debit Card
+1017,C106,P101,UltraBook Pro Laptop,Electronics,1,62743.47,2026-09-06,West,Cash
+1121,C119,P112,USB-C Multiport Hub,Accessories,2,2534.47,2026-09-25,West,UPI
+1039,C125,P101,UltraBook Pro Laptop,Electronics,4,63473.82,2026-09-26,West,Debit Card
+1095,C137,P111,Learning Spark 2nd Ed,Books,1,1341.75,2026-09-14,South,Net Banking
+1065,C123,P111,Learning Spark 2nd Ed,Books,5,1385.95,2026-09-27,Central,Debit Card
+1173,C103,P111,Learning Spark 2nd Ed,Books,-3,1400.00,2026-09-21,West,UPI
+1189,C123,P109,Non-Stick Cookware Set,Home & Kitchen,1,4500.00,2026-09-29,West,
+1080,C132,P107,Denim Slim Jeans,Apparel,2,2122.47,2026-09-23,North,UPI
+1024,C116,P101,UltraBook Pro Laptop,Electronics,2,67457.06,2026-10-01,North,UPI
+1106,C101,P107,Denim Slim Jeans,Apparel,4,2113.22,2026-10-01,East,Net Banking
+1010,C108,P104,Noise-Cancelling Headphones,Electronics,4,15000.00,2026-10-01,North,Credit Card
+1166,C101,P108,Automatic Espresso Maker,Home & Kitchen,3,18828.58,2026-09-06,North,Net Banking
+1086,C134,P108,Automatic Espresso Maker,Home & Kitchen,2,18083.01,2026-09-03,East,Credit Card
+1105,C123,P109,Non-Stick Cookware Set,Home & Kitchen,4,4572.68,2026-09-03,Central,Debit Card
+1058,C136,P103,Mechanical RGB Keyboard,Accessories,4,3369.61,2026-09-10,East,UPI
+1115,C138,P106,Cotton Graphic T-Shirt,Apparel,4,804.28,2026-09-12,West,Cash
+1163,C116,P109,Non-Stick Cookware Set,Home & Kitchen,4,4529.67,2026-09-26,South,Credit Card
+1055,C128,P105,4K Ultra-HD Monitor,Electronics,1,26609.93,2026-09-25,South,Debit Card
+1141,C103,P108,Automatic Espresso Maker,Home & Kitchen,1,18156.86,2026-09-11,North,Net Banking
+1029,C138,P109,Non-Stick Cookware Set,Home & Kitchen,2,4539.80,2026-09-01,North,UPI
+1025,C132,P102,Ergonomic Wireless Mouse,Accessories,5,1231.90,2026-09-05,West,Cash
+1110,C137,P110,Designing Data-Intensive Apps,Books,4,1770.55,2026-09-16,East,Credit Card
+1154,C115,P107,Denim Slim Jeans,Apparel,1,2160.00,2026-09-16,West,Net Banking
+1129,C112,P109,Non-Stick Cookware Set,Home & Kitchen,1,4345.44,2026-09-14,West,Cash
+1116,C122,P106,Cotton Graphic T-Shirt,Apparel,4,781.67,2026-09-09,South,UPI
+1075,C114,P107,Denim Slim Jeans,Apparel,5,2223.47,2026-09-11,West,Net Banking
+1135,C133,P109,Non-Stick Cookware Set,Home & Kitchen,4,4471.99,2026-09-20,North,Net Banking
+1152,C129,P109,Non-Stick Cookware Set,Home & Kitchen,4,4430.31,2026-09-18,Central,Net Banking
+1097,C122,P107,Denim Slim Jeans,Apparel,3,2255.44,2026-09-27,West,Debit Card
+1083,C130,P111,Learning Spark 2nd Ed,Books,5,1468.30,2026-09-20,East,Net Banking
+1140,C111,P106,Cotton Graphic T-Shirt,Apparel,4,815.49,2026-09-10,West,Cash
+1149,C110,P107,Denim Slim Jeans,Apparel,2,2292.81,2026-09-17,South,UPI
+1162,C103,P106,Cotton Graphic T-Shirt,Apparel,1,783.47,2026-09-12,West,Credit Card
+1159,C125,P106,Cotton Graphic T-Shirt,Apparel,4,829.79,2026-09-02,Central,UPI
+1070,C124,P107,Denim Slim Jeans,Apparel,1,2298.75,2026-09-30,East,Cash
+1032,C131,P104,Noise-Cancelling Headphones,Electronics,4,15461.25,2026-09-07,North,UPI
+1016,C128,P110,Designing Data-Intensive Apps,Books,4,1775.16,2026-09-05,Central,Net Banking
+1037,C104,P111,Learning Spark 2nd Ed,Books,5,1447.04,2026-09-03,South,Credit Card
+1155,C110,P108,Automatic Espresso Maker,Home & Kitchen,1,17808.56,2026-10-01,Central,Debit Card
+1082,C104,P109,Non-Stick Cookware Set,Home & Kitchen,2,4687.86,2026-09-04,West,Credit Card
+1020,C108,P105,4K Ultra-HD Monitor,Electronics,4,27042.84,2026-09-01,East,Cash
+1018,C105,P107,Denim Slim Jeans,Apparel,4,2221.10,2026-09-15,Central,Debit Card
+1113,C127,P108,Automatic Espresso Maker,Home & Kitchen,5,18977.60,2026-09-23,West,Net Banking
+1182,C140,P109,Non-Stick Cookware Set,Home & Kitchen,2,4500.00,2026-14-99,North,Net Banking
+1125,C106,P104,Noise-Cancelling Headphones,Electronics,1,15087.11,2026-09-14,Central,Cash
+1027,C113,P112,USB-C Multiport Hub,Accessories,3,2474.75,2026-09-22,East,Net Banking
+1175,C112,P112,USB-C Multiport Hub,Accessories,2,-250.00,2026-09-14,South,Cash
+1109,C121,P104,Noise-Cancelling Headphones,Electronics,1,14668.39,2026-09-15,South,Net Banking
+1102,C108,P103,Mechanical RGB Keyboard,Accessories,3,3362.83,2026-09-01,East,Cash
+1122,C101,P110,Designing Data-Intensive Apps,Books,3,1794.49,2026-09-15,East,Credit Card
+1015,C117,P103,Mechanical RGB Keyboard,Accessories,2,3585.75,2026-09-18,East,Cash
+1007,C136,P105,4K Ultra-HD Monitor,Electronics,5,29079.26,2026-09-12,Central,Credit Card
+1164,C112,P102,Ergonomic Wireless Mouse,Accessories,5,1244.50,2026-09-20,South,Net Banking
+1117,C113,P106,Cotton Graphic T-Shirt,Apparel,1,819.43,2026-10-01,South,Credit Card
+1077,C119,P109,Non-Stick Cookware Set,Home & Kitchen,5,4425.83,2026-09-27,South,Debit Card
+1133,C105,P101,UltraBook Pro Laptop,Electronics,2,66902.09,2026-09-20,Central,Debit Card
+1168,C120,P104,Noise-Cancelling Headphones,Electronics,4,15530.00,2026-09-04,South,Net Banking
+1186,C110,P107,,Apparel,4,2200.00,2026-09-19,North,Net Banking

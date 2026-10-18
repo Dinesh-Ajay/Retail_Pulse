@@ -1,0 +1,51 @@
+{
+  "run_id": "run_20261009_185310_0a0c24",
+  "status": "SUCCESS",
+  "start_time": "2026-10-09T18:53:10.324176+00:00",
+  "end_time": "2026-10-09T18:53:31.547666+00:00",
+  "duration_seconds": 21.223,
+  "stages": {
+    "dataset_generation": "SUCCESS",
+    "spark_init": "SUCCESS",
+    "bronze_layer": "SUCCESS",
+    "silver_layer": "SUCCESS",
+    "gold_layer": "SUCCESS",
+    "mysql_warehouse": "SUCCESS"
+  },
+  "metrics": {
+    "input_records": 200,
+    "bronze_records": 200,
+    "silver_records": 170,
+    "rejected_records": 30,
+    "duplicate_records": 3,
+    "gold_daily_records": 30,
+    "gold_product_records": 12,
+    "gold_regional_records": 5,
+    "gold_category_records": 5,
+    "gold_payment_records": 5,
+    "mysql_facts_loaded": 170
+  },
+  "rejection_breakdown": {
+    "MISSING_CUSTOMER_ID": 3,
+    "INVALID_UNIT_PRICE": 3,
+    "MISSING_PRODUCT_NAME": 3,
+    "MISSING_CATEGORY": 3,
+    "INVALID_ORDER_DATE": 3,
+    "INVALID_QUANTITY": 6,
+    "MISSING_REGION": 3,
+    "DUPLICATE_ORDER_ID": 3,
+    "MISSING_PAYMENT_METHOD": 3
+  },
+  "output_locations": {
+    "bronze": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\bronze\\raw_transactions",
+    "silver": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\silver\\cleaned_sales",
+    "rejected_parquet": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\rejected\\quarantined_sales",
+    "rejected_csv": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\rejected\\quarantined_sales_csv",
+    "gold_daily_sales": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\gold\\daily_sales",
+    "gold_product_performance": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\gold\\product_performance",
+    "gold_regional_sales": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\gold\\regional_sales",
+    "gold_category_performance": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\gold\\category_performance",
+    "gold_payment_methods": "C:\\Users\\P.DINESH AJAY\\OneDrive\\Desktop\\Python-Course-Work\\RetailPulse\\data\\gold\\payment_methods"
+  },
+  "error_message": null
+}

@@ -1,0 +1,31 @@
+order_id,customer_id,product_id,product_name,category,quantity,unit_price,order_date,region,payment_method,rejection_reason,rejection_timestamp,_source_file
+1009,C118,P111,Learning Spark 2nd Ed,Books,1,1400.00,2026-09-13,Central,UPI,DUPLICATE_ORDER_ID,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1010,C123,P104,Noise-Cancelling Headphones,Electronics,3,15302.73,2026-09-22,North,Cash,DUPLICATE_ORDER_ID,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1010,C108,P104,Noise-Cancelling Headphones,Electronics,4,15000.00,2026-10-01,North,Credit Card,DUPLICATE_ORDER_ID,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1171,,P112,USB-C Multiport Hub,Accessories,2,2500.00,2026-09-16,Central,Debit Card,MISSING_CUSTOMER_ID,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1172,C113,P104,Noise-Cancelling Headphones,Electronics,3,15000.00,2026-14-99,South,UPI,INVALID_ORDER_DATE,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1173,C103,P111,Learning Spark 2nd Ed,Books,-3,1400.00,2026-09-21,West,UPI,INVALID_QUANTITY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1174,C109,P110,Designing Data-Intensive Apps,Books,0,1800.00,2026-09-12,East,Debit Card,INVALID_QUANTITY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1175,C112,P112,USB-C Multiport Hub,Accessories,2,-250.00,2026-09-14,South,Cash,INVALID_UNIT_PRICE,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1176,C133,P106,,Apparel,3,800.00,2026-09-17,South,Debit Card,MISSING_PRODUCT_NAME,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1177,C119,P108,Automatic Espresso Maker,,3,18500.00,2026-10-01,North,Net Banking,MISSING_CATEGORY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1178,C115,P102,Ergonomic Wireless Mouse,Accessories,4,1200.00,2026-09-05,,Debit Card,MISSING_REGION,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1179,C126,P102,Ergonomic Wireless Mouse,Accessories,1,1200.00,2026-09-26,East,,MISSING_PAYMENT_METHOD,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1181,,P106,Cotton Graphic T-Shirt,Apparel,4,800.00,2026-09-04,North,Cash,MISSING_CUSTOMER_ID,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1182,C140,P109,Non-Stick Cookware Set,Home & Kitchen,2,4500.00,2026-14-99,North,Net Banking,INVALID_ORDER_DATE,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1183,C127,P112,USB-C Multiport Hub,Accessories,-3,2500.00,2026-09-10,South,UPI,INVALID_QUANTITY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1184,C132,P101,UltraBook Pro Laptop,Electronics,0,65000.00,2026-09-10,North,Credit Card,INVALID_QUANTITY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1185,C125,P109,Non-Stick Cookware Set,Home & Kitchen,4,-250.00,2026-09-05,East,Cash,INVALID_UNIT_PRICE,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1186,C110,P107,,Apparel,4,2200.00,2026-09-19,North,Net Banking,MISSING_PRODUCT_NAME,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1187,C118,P110,Designing Data-Intensive Apps,,1,1800.00,2026-09-14,East,Credit Card,MISSING_CATEGORY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1188,C116,P108,Automatic Espresso Maker,Home & Kitchen,3,18500.00,2026-09-15,,Debit Card,MISSING_REGION,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1189,C123,P109,Non-Stick Cookware Set,Home & Kitchen,1,4500.00,2026-09-29,West,,MISSING_PAYMENT_METHOD,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1191,,P111,Learning Spark 2nd Ed,Books,1,1400.00,2026-09-20,East,Credit Card,MISSING_CUSTOMER_ID,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1192,C137,P103,Mechanical RGB Keyboard,Accessories,2,3500.00,2026-14-99,North,Cash,INVALID_ORDER_DATE,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1193,C114,P104,Noise-Cancelling Headphones,Electronics,-3,15000.00,2026-09-19,East,Credit Card,INVALID_QUANTITY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1194,C118,P110,Designing Data-Intensive Apps,Books,0,1800.00,2026-09-01,South,Cash,INVALID_QUANTITY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1195,C112,P105,4K Ultra-HD Monitor,Electronics,1,-250.00,2026-09-26,North,Credit Card,INVALID_UNIT_PRICE,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1196,C116,P101,,Electronics,3,65000.00,2026-09-12,North,Credit Card,MISSING_PRODUCT_NAME,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1197,C109,P105,4K Ultra-HD Monitor,,4,28000.00,2026-09-02,Central,UPI,MISSING_CATEGORY,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1198,C131,P112,USB-C Multiport Hub,Accessories,4,2500.00,2026-09-03,,Cash,MISSING_REGION,2026-10-10T00:23:25.558+05:30,retail_sales.csv
+1199,C129,P110,Designing Data-Intensive Apps,Books,2,1800.00,2026-09-04,Central,,MISSING_PAYMENT_METHOD,2026-10-10T00:23:25.558+05:30,retail_sales.csv
